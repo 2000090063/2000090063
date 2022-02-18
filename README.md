@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm karthik Reddy Veluru</h1>
-<h3 align="center">A passionate frontend developer and competitive programmer from India</h3>
+<h3 align="center">👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
 
 - 🌱 I’m currently learning **Django web framework**
 
