@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm karthik Reddy Veluru</h1>
 <h3 align="center">
-- 👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
+  👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
 
 - 🌱 I’m currently learning **Django web framework**
 
