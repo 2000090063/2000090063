@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm karthik Reddy Veluru</h1>
+<p align="left"> <a href="https://twitter.com/karthik33690899" target="blank"><img src="https://img.shields.io/twitter/follow/karthik33690899?logo=twitter&style=for-the-badge" alt="karthik33690899" /></a> </p>
 <h3 align="center">
   👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
 
