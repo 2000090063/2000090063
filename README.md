@@ -16,7 +16,7 @@
 <h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karthik-reddy-veluru-86ab52201/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vishalj10483982" /></a> 
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /></a> 
+<a href="https://twitter.com/karthik33690899" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /></a> 
 </p>
 
 <h3 align="left">Competitive Programming Profiles:</h3>
