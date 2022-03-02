@@ -5,7 +5,7 @@
   👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
 
 - 🌱 I’m currently learning **Django web framework**
-- 👨‍ check out all my work in [Repository Section](https://github.com/knockcat?tab=repositories)
+- 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
 
 - 👯 I’m looking to collaborate with **content creators**
 
