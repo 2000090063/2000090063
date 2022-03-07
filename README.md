@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++,Python Data analysis**
 
-- 📫 How to reach me **2000090063csit@gmail.com**
+- 📫 How to reach me **karthik@karthikreddyveluru.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
