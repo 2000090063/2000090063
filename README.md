@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **content creators**
 
-- 💬 Ask me about **C++,Python Data analysis**
+- 💬 Ask me about **C++,Python**
 
 - 📫 How to reach me **karthik@karthikreddyveluru.me**
 
