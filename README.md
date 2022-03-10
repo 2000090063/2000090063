@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact" alt="2000090063" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&" alt="2000090063" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&" alt="2000090063" /> </p>
