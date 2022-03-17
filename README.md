@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=0e75b6&style=flat" alt="2000090063" /> </p>
 
 <h3 align="center">
-  👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
+   👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
   <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🌱 I’m currently learning **Django web framework**
