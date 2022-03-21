@@ -33,10 +33,10 @@
 
 |               |           |
 |       ---     |    ---    |
-| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
-| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![devops](https://img.shields.io/badge/-devops-034D9A?style=for-the-badge&logo=devops%2B%2B)|
-      
+| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+| `Languages`   | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222222)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| `Tools`       | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+| `Databases`   | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <h3 align="left">Competitive Programming Profiles:</h3>
 <p align="left">
