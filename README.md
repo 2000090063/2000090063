@@ -52,13 +52,13 @@
 
    
 ### 📊 Contribution stats :
- <p align="center">
-  <img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />   <img align="right"width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />
-</p>
+ <div align="center">
+  <p><img align="left" height="50%" length="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />   <img align="right"width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" /></p>
+</div>
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
   </div>
 
 
