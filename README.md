@@ -6,17 +6,17 @@
    👀 I’m interested in Data science,Web Development and Competitive programming.</h3>
   <img align="left" alt="coding" width="350"  src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
-- 🌱 I’m currently learning **Django web framework**
-- 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
+   - 🌱 I’m currently learning **Django web framework**
+   - 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
 
-- 👯 I’m looking to collaborate with **content creators**
+   - 👯 I’m looking to collaborate with **content creators**
 
-- 💬 Ask me about **C++(STL) , Python**
+   - 💬 Ask me about **C++(STL) , Python**
 
-- 📫 How to reach me **karthik@karthikreddyveluru.me**
+   - 📫 How to reach me **karthik@karthikreddyveluru.me**
 
 
- <h1 align="center">Let's Get Connected</h1>
+ <h3 align="center">🤝 Let's Get Connected</h3>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/karthik-reddy-veluru-86ab52201/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +28,7 @@
    
    
 </div>
+
    
 ### 🍁 My Skill stack :
 
@@ -38,7 +39,7 @@
 | `Tools`       | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 | `Databases`   | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<h3 align="left">Competitive Programming Profiles:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="40"> Competitive Programming Profiles:</h3>
 <p align="left">
 
 <a href="https://www.codechef.com/users/el_2000090063" target="blank"><code><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="el_2000090063" height="30" width="40" /></code></a>
@@ -48,14 +49,12 @@
 <a href="https://auth.geeksforgeeks.org/user/karthikveluru777" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="karthikveluru777" height="30" width="40" /></code></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">  </p>
+
    
-  
- <tr>
- <td><img src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" /></td>
- </tr>
+### 📊 Contribution stats :
+ <div>
+ <img src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />
+</div>
 
 
 <div align="center">
