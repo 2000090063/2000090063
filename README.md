@@ -17,7 +17,7 @@
    - ⚡ Fun fact:  I'm a  Crypto  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white "/> trader.
 
 
- <h3 align="center">🤝 Let's Get Connected</h3>
+ <h3 align="left">🤝 Let's Get Connected</h3>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/karthik-reddy-veluru-86ab52201/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
