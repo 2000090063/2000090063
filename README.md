@@ -14,6 +14,7 @@
    - 💬 Ask me about **C++(STL) , Python**
 
    - 📫 How to reach me **karthik@karthikreddyveluru.me**
+   - ⚡ Fun fact:  I'm a  Crypto  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white "/> trader.
 
 
  <h3 align="center">🤝 Let's Get Connected</h3>
@@ -35,7 +36,7 @@
 |               |           |
 |       ---     |    ---    |
 | `Web-Dev`     | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-| `Languages`   | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222222)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| `Languages`   | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222222) 
 | `Tools`       | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 | `Databases`   | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -52,14 +53,17 @@
 
    
 ### 📊 Contribution stats :
- <div align="center">
-  <p><img align="left" height="50%" length="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />   <img align="right"width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" /></p>
-</div>
-
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=2000090063&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=2000090063&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karthik reddy" /></td>
+  </tr>
+</table>
 
 <div align="center">
-<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
-  </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
+  
 
-
-
+[![GitHub followers](https://img.shields.io/github/followers/2000090063.svg?style=social&label=Follow)](https://github.com/2000090063?tab=followers)
+</div>
