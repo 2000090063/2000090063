@@ -62,7 +62,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
+<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=2000090063&theme=dark" alt="Karthik reddy" /></p>
   
 
 [![GitHub followers ](https://img.shields.io/github/followers/2000090063.svg?style=social&label=Follow)](https://github.com/2000090063?tab=followers)
