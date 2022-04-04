@@ -11,7 +11,7 @@
 
    - 👯 I’m looking to collaborate with **content creators**
 
-   - 💬 Ask me about **C++, Python**
+   - 💬 Ask me about **C++ , Python**
 
    - 📫 How to reach me **karthik@karthikreddyveluru.me**
    - ⚡ Fun fact:  I'm a  Crypto  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white "/> trader.
