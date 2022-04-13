@@ -6,18 +6,18 @@
    👀 I’m interested in Data science , Web Development and Competitive programming.</h3>
   <img align="left" alt="coding" width="350"  src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
-   - 🌱 I’m currently learning **Django web framework**
+   - 🌱 I’m currently learning **Spring Boot Framework**
    - 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
 
    - 👯 I’m looking to collaborate with **content creators**
 
-   - 💬 Ask me about **C++ , Python**
+   - 💬 Ask me about ** Java , C++ (STL) , Python**
 
    - 📫 How to reach me **karthik@karthikreddyveluru.me**
    - ⚡ Fun fact:  I'm a  Crypto  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white "/> trader.
 
 
- <h3 align="left">🤝 Let's Get Connected</h3>
+ <h3 align="left">🤝 Let's Get Connected : </h3>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/karthik-reddy-veluru-86ab52201/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
