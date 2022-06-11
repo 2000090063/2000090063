@@ -6,7 +6,7 @@
 
 <h3 align="center">
    👀 I’m interested in Data science , Web Development and Competitive programming.</h3>
-  <img align="left" alt="coding" width="350"  src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
+  <img align="right" alt="coding" width="350"  src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
    - 🌱 I’m currently learning **Spring Boot Framework**
    - 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
@@ -43,7 +43,7 @@
 | `Databases`   | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <h3 align="left"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="40"> Competitive Programming Profiles:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://www.codechef.com/users/el_2000090063" target="blank"><code><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="el_2000090063" height="30" width="40" /></code></a>
 <a href="https://www.hackerrank.com/@2000090063kr" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2000090063kr" height="30" width="40" /></code></a>
