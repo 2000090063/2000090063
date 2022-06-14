@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<h1 align="right">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">, I'm karthik Reddy Veluru</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=0e75b6&style=flat" alt="2000090063" /> </p>
-=======
-=======
->>>>>>> cc42231a6e3330218388a3a4a197e9a698b5e5a8
 
 
 <h1 align="center">Hi 👋 I'm karthik Reddy Veluru</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=6805D3&style=flat" alt="2000090063" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=6805D3&style=flat" alt="2000090063" /> </p>
 
 
 <h3 align="center">
