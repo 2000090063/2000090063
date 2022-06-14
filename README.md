@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋 I'm karthik Reddy Veluru</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=6805D3&style=flat" alt="2000090063" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=2000090063&label=Profile%20views&color=6805D3&style=flat" alt="2000090063" /> </p>
 
 
 <h3 align="center">
