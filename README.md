@@ -8,7 +8,7 @@
    👀 I’m interested in Data science , Web Development and Competitive programming.</h3>
   <img align="right" alt="coding" width="350"  src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
-   - 🌱 I’m currently learning **Spring Boot Framework**
+   - 🌱 I’m currently learning **Enterprise Programming**
    - 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
 
    - 👯 I’m looking to collaborate with **content creators**
