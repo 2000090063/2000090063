@@ -11,7 +11,7 @@
    - 🌱 I’m currently learning **Enterprise Programming**
    - 👨‍ check out all my work in [Repository Section](https://github.com/2000090063?tab=repositories)
 
-   - 👯 I’m looking to collaborate with **content creators**
+   - 👯 I’m looking to collaborate with **Developers**
 
    - 💬 Ask me about ** OOP'S in Java , C++ (STL) , Python**
 
