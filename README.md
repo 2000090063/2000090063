@@ -13,7 +13,7 @@
 
    - 👯 I’m looking to collaborate with **Developers**
 
-   - 💬 Ask me about ** OOP'S in Java , C++ (STL) , Python**
+   - 💬 Ask me about ** OOP'S with Java , C++ (STL) , Python**
 
    - 📫 How to reach me **2000090063csit@gmail.com**
    - ⚡ Fun fact:  I'm a  Crypto  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white "/> trader.
